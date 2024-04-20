@@ -1,0 +1,14 @@
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\bin\Debug\net8.0\MyFirstSolution.exe
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\bin\Debug\net8.0\MyFirstSolution.deps.json
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\bin\Debug\net8.0\MyFirstSolution.runtimeconfig.json
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\bin\Debug\net8.0\MyFirstSolution.dll
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\bin\Debug\net8.0\MyFirstSolution.pdb
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\MyFirstSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\MyFirstSolution.AssemblyInfoInputs.cache
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\MyFirstSolution.AssemblyInfo.cs
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\MyFirstSolution.csproj.CoreCompileInputs.cache
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\MyFirstSolution.dll
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\refint\MyFirstSolution.dll
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\MyFirstSolution.pdb
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\MyFirstSolution.genruntimeconfig.cache
+D:\IT- Academy\Temp\HW2\MyFirstConsole\MyFirstSolution\obj\Debug\net8.0\ref\MyFirstSolution.dll
