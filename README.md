@@ -87,7 +87,8 @@ HomeWork8:
 
 HomeWork9:
 
-1. Реализовать структуру классов.
+1. Реализовать структуру классов.![image](https://github.com/Sergey-Mileshko/IT-HomeWork-C-/assets/84710491/4b9fe294-de51-4a3c-aff0-73baa3897f4e)
+
 
 2. Реализовать класс Зоопарк (Zoo).
 
